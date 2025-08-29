@@ -1,8 +1,7 @@
-# Student Session Outcome Prediction
+#AI Assistant Usage in Student's Life
 
-This repository contains a machine learning project that predicts student session outcomes using session features, engagement metrics, and AI assistance levels. The project demonstrates handling **imbalanced datasets** and model evaluation using multiple classification algorithms.
+This repository contains a machine learning project that predicts student's effect on the ussage of AI and other outcomes using session features, the AI itself and other engagement metrics. The project demonstrates handling a dataset and model evaluation using multiple classification algorithms.
 
----
 
 ## **Project Overview**
 
