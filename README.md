@@ -59,7 +59,7 @@ Metrics used to evaluate models:
 - **F1-Score** – Balanced mean of precision and recall  
 - **Support** – Number of samples in each class
 
-##**Technologies used**
+## **Technologies used**
 
 -Python(Pandas,Matplotlib,Seaborn,Regression,Ensembles,Classification)
 
