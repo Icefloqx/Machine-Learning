@@ -17,15 +17,15 @@
 
 The dataset consists of the following columns:
  
- *'SessionLengthMin`:Duration of the session in minutes 
+ *'SessionLengthMin`: Duration of the session in minutes 
  
- *'TotalPrompts`:Number of prompts.
+ *'TotalPrompts`: Number of prompts.
  
- *'AI_AssistanceLevel`:Level of AI assistance during the session.
+ *'AI_AssistanceLevel`: Level of AI assistance during the session.
  
- *`SatisfactionRating':Student-reported satisfaction.
+ *`SatisfactionRating': Student-reported satisfaction.
  
- *'Year' Month` `Day`:Date of the session. 
+ *'Year','Month`,`Day`: Date of the session. 
  
  *`PromptsPerMinute':Derived metric: prompts per minute.
  
