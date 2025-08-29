@@ -60,7 +60,10 @@ Metrics used to evaluate models:
 - **Support** – Number of samples in each class
 
 ##**Technologies used**
+
 -Python(Pandas,Matplotlib,Seaborn,Regression,Ensembles,Classification)
+
 -Jupyter Notebook.
+
 -Git Bash & Github.
 
